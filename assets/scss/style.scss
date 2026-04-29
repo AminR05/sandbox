@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
-header img{
-    col-lg
+
+header{
+    .d-flex{
+        justify-content: space-between;
+    }
+    img{
+        .col-lg-2
+        
+    }
+}
+// ------------------------------------------------
+#section-one{
+    img{
+        .col-lg-6
+    }
+    h1{
+        .col-lg-6
+    }
 }
